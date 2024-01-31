@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**RezaSoofian/RezaSoofian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**<h2 align="center"><Hello World! /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" /> I'm Reza Soofian</h2>**
+<h4 align="center">Front End Developer</h4>
+<div display="flex">
+  <div>
+    <p>About Me:</p>
+    <ul>
+      <li>I Love Technology And I'm From Iran</li>
+      <li>I'm Learning And Mastering React.Js</li>
+      <li>I'm Very Interested In Communicating With My Colleagues Around The World</li>
+      <li>My Goal Is To Be Effective</li>
+    <ul/>
+  </div>
+  <div></div>
+</div>
