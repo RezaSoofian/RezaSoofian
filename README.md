@@ -12,10 +12,11 @@
     <ul/>
   </div>
   <div>
-    <span><a href="https://www.w3schools.com/html/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/HTML.Logo.png" alt="HTML"></a></span>
-    <span><a href="https://www.w3schools.com/css/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/CSS.svg" width="50px"></a></span>
-    <span></span>
-    <span></span>
-    <span></span>
-    <span></span>
+    <span><a href="https://www.w3schools.com/html/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/HTML%20(1).svg" width="50px" alt="HTML"></a></span>
+    <span><a href="https://www.w3schools.com/css/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/CSS.svg" width="50px" alt="CSS"></a></span>
+    <span><a href="https://www.w3schools.com/css/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/JavaScript.svg" width="50px" alt="JS"></a></span>
+    <span><a href="https://www.w3schools.com/css/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/Bootstrap.svg" width="50px" alt="BOOTSTRAP"></a></span>
+    <span><a href="https://www.w3schools.com/css/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/TailwindCSS-Dark.svg" width="50px" alt="TAILWINDCSS"></a></span>
+    <span><a href="https://www.w3schools.com/css/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/Sass.svg" width="50px" alt="SASS"></a></span>
+    <span><a href="https://www.w3schools.com/css/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/React-Dark.svg" width="50px" alt="REACT.JS"></a></span>
   </div>
