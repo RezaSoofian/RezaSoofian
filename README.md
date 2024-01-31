@@ -13,7 +13,7 @@
   </div>
   <div>
     <span><a href="https://www.w3schools.com/html/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/HTML.Logo.png" alt="HTML"></a></span>
-    <span><a href="https://www.w3schools.com/html/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/CSS.svg"></a></span>
+    <span><a href="https://www.w3schools.com/css/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/CSS.svg" width="50px"></a></span>
     <span></span>
     <span></span>
     <span></span>
