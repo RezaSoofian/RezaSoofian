@@ -5,15 +5,15 @@
   <div>
     <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" />&nbsp About Me:</h3>
     <ul>
-      <li>I Love Technology And I'm From Iran.</li>
-      <li>I'm Learning And Mastering React.Js.</li>
-      <li>I'm Very Interested In Communicating With My Colleagues Around The World.</li>
-      <li>My Goal Is To Be Effective.</li>
+      <li>I Love Technology And I'm From Iran 🌍</li>
+      <li>I'm Learning And Mastering React.Js 📖</li>
+      <li>I'm Very Interested In Communicating With My Colleagues Around The World 🫱🏼‍🫲🏼</li>
+      <li>My Goal Is To Be Effective ❤️</li>
     <ul/>
   </div>
       <br/>
   <div>
-    <h3>Skills:</h3>
+    <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Crossed Swords" width="25" height="25" /> Skills:</h3>
     <span><a href="https://www.w3schools.com/html/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/HTML%20(1).svg" width="50px" alt="HTML"/></a></span> &nbsp
     <span><a href="https://www.w3schools.com/css/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/CSS.svg" width="50px" alt="CSS"/></a></span> &nbsp
     <span><a href="https://www.w3schools.com/js/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/JavaScript.svg" width="50px" alt="JS"/></a></span> &nbsp
