@@ -1,6 +1,6 @@
 **<h2 align="center"><Hello World! /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" /> I'm Reza Soofian</h2>**
 <h4 align="center">Front End Developer</h4>
-<div display="flex">
+<div><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/mario.gif"/></div>
   <div>
     <p>About Me:</p>
     <ul>
@@ -10,5 +10,3 @@
       <li>My Goal Is To Be Effective</li>
     <ul/>
   </div>
-  <div></div>
-</div>
