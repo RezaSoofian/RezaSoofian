@@ -12,7 +12,7 @@
     <ul/>
   </div>
   <div>
-    <span><a href="https://www.w3schools.com/html/"></a></span>
+    <span><a href="https://www.w3schools.com/html/"><img src="" alt=""></a></span>
     <span></span>
     <span></span>
     <span></span>
