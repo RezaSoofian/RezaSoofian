@@ -26,6 +26,6 @@
       <br/>
 <div>
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> Contact:</h3>
-  <span><a href="rezasoofian932@gmail.com"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/Gmail.svg" width="50px" alt="GMAIL"/></a></span> &nbsp
+  <span><a href="https://rezasoofian932@gmail.com"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/Gmail.svg" width="50px" alt="GMAIL"/></a></span> &nbsp
   <span><a href="https://t.me/Reza_Soofian"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/Telegram.svg" width="50px" alt="TELEGRAM"/></a></span> &nbsp
 </div>
