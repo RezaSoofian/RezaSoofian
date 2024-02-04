@@ -7,7 +7,7 @@
     <ul>
       <li>I Love Technology And I'm From Iran 🌍</li>
       <li>I'm Learning And Mastering React.Js 📚</li>
-      <li>I'm Very Interested In Communicating With My Colleagues Around The World 🫱🏼‍🫲🏼</li>
+      <li>I'm Very Interested In Communicating With My Colleagues Around The World 🙏🏼</li>
       <li>My Goal Is To Be Effective ❤️</li>
     <ul/>
   </div>
