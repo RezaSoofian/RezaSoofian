@@ -22,6 +22,7 @@
     <span><a href="https://sass-lang.com/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/Sass.svg" width="50px" alt="SASS"/></a></span> &nbsp
     <span><a href="https://react.dev/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/React-Dark.svg" width="50px" alt="REACT.JS"/></a></span> &nbsp
     <span><a href="https://www.figma.com/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/Figma-Dark.svg" width="50px" alt="FIGMA"/></a></span> &nbsp
+    <span><a href="https://wordpress.org/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/wordpress.svg" alt="WORDPRESS"/></a></span> &nbsp
   </div>
       <br/>
 <div>
