@@ -1,32 +1,42 @@
-**<h2 align="center"><Hello World! /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /> I'm Reza Soufijan</h2>**
-<h4 align="center">Front End Developer</h4>
-<div><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/mario.gif"/></div>
-<br/>
-  <div>
-    <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" />&nbsp About Me:</h3>
-    <ul>
-      <li>I Love Technology And I'm From Iran 🌍</li>
-      <li>I'm Learning And Mastering React.Js 📚</li>
-      <li>I'm Very Interested In Communicating With My Colleagues Around The World 🙏🏼</li>
-      <li>My Goal Is To Be Effective ❤️</li>
-    <ul/>
-  </div>
-      <br/>
-  <div>
-    <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Crossed Swords" width="25" height="25" /> Skills:</h3>
-    <span><a href="https://www.w3schools.com/html/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/HTML%20(1).svg" width="50px" alt="HTML"/></a></span> &nbsp
-    <span><a href="https://www.w3schools.com/css/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/CSS.svg" width="50px" alt="CSS"/></a></span> &nbsp
-    <span><a href="https://www.w3schools.com/js/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/JavaScript.svg" width="50px" alt="JS"/></a></span> &nbsp
-    <span><a href="https://getbootstrap.com/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/Bootstrap.svg" width="50px" alt="BOOTSTRAP"/></a></span> &nbsp
-    <span><a href="https://tailwindcss.com/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/TailwindCSS-Dark.svg" width="50px" alt="TAILWINDCSS"/></a></span> &nbsp
-    <span><a href="https://sass-lang.com/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/Sass.svg" width="50px" alt="SASS"/></a></span> &nbsp
-    <span><a href="https://react.dev/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/React-Dark.svg" width="50px" alt="REACT.JS"/></a></span> &nbsp
-    <span><a href="https://www.figma.com/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/Figma-Dark.svg" width="50px" alt="FIGMA"/></a></span> &nbsp
-    <span><a href="https://wordpress.org/"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/wordpress.svg" alt="WORDPRESS"/></a></span> &nbsp
-  </div>
-      <br/>
-<div>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> Contact:</h3>
-  <span><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfqbkhZDpKxMcBdfcmTVjdXjNRhmTXhWnWWQXGRfQBDTLlRQHwvJvDJKQsNsKSVLcQXWnV"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/Gmail.svg" width="50px" alt="GMAIL"/></a></span> &nbsp
-  <span><a href="https://t.me/Reza_Soofian"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/Telegram.svg" width="50px" alt="TELEGRAM"/></a></span> &nbsp
+<div align="center">
+
+# Hi, I'm Reza Soufijan 👋
+
+### Digital Marketing Manager
+
+[![Email](https://img.shields.io/badge/Email-rezasoofian932%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezasoofian932@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-reza__soofian-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/reza_soofian)
+[![Telegram](https://img.shields.io/badge/Telegram-Reza__Soofian-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Reza_Soofian)
+
 </div>
+
+<div align="center"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/mario.gif" alt="Animated pixel art workspace" /></div>
+
+## About Me
+
+I'm a Digital Marketing Manager with a strong interest in SEO, web design, WordPress, AI, and marketing automation. I enjoy turning ideas into practical digital experiences and finding smarter ways to help brands grow online.
+
+## Skills
+
+![SEO](https://img.shields.io/badge/SEO-0A66C2?style=flat-square&logo=google&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-111827?style=flat-square&logo=html5&logoColor=white)
+![Web Design](https://img.shields.io/badge/Web%20Design-7C3AED?style=flat-square&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square&logo=openai&logoColor=white)
+![Marketing Automation](https://img.shields.io/badge/Marketing%20Automation-FF6F00?style=flat-square&logo=zapier&logoColor=white)
+
+## Selected Projects
+
+| Project | Role | Website |
+|---|---|---|
+| **GTOA** | Digital Marketing Manager | [Visit Website](https://greatertxortho.com/) |
+| **Defcor** | Digital Marketing Manager | [Visit Website](https://defcor.us/) |
+| **Nova** | Digital Marketing Manager | [Visit Website](https://thenovacreative.agency/) |
+| **Aalix** | Digital Marketing Manager | [Visit Website](https://aalixstudio.com/) |
+| **Falcon Reach** | Digital Marketing Manager | Coming soon |
+
+## Contact
+
+- Email: [rezasoofian932@gmail.com](mailto:rezasoofian932@gmail.com)
+- Instagram: [@reza_soofian](https://instagram.com/reza_soofian)
+- Telegram: [@Reza_Soofian](https://t.me/Reza_Soofian)
