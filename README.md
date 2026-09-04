@@ -4,10 +4,6 @@
 
 ### Digital Marketing Manager
 
-[![Email](https://img.shields.io/badge/Email-rezasoofian932%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezasoofian932@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-reza__soofian-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/reza_soofian)
-[![Telegram](https://img.shields.io/badge/Telegram-Reza__Soofian-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Reza_Soofian)
-
 </div>
 
 <div align="center"><img src="https://github.com/RezaSoofian/RezaSoofian/blob/main/mario.gif" alt="Animated pixel art workspace" /></div>
@@ -18,25 +14,58 @@ I'm a Digital Marketing Manager with a strong interest in SEO, web design, WordP
 
 ## Skills
 
-![SEO](https://img.shields.io/badge/SEO-0A66C2?style=flat-square&logo=google&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Development-111827?style=flat-square&logo=html5&logoColor=white)
-![Web Design](https://img.shields.io/badge/Web%20Design-7C3AED?style=flat-square&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square&logo=openai&logoColor=white)
-![Marketing Automation](https://img.shields.io/badge/Marketing%20Automation-FF6F00?style=flat-square&logo=zapier&logoColor=white)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="44" height="44" alt="SEO" title="SEO" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="44" height="44" alt="Web Development" title="Web Development" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="44" height="44" alt="Web Design" title="Web Design" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="44" height="44" alt="WordPress" title="WordPress" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="44" height="44" alt="Artificial Intelligence" title="Artificial Intelligence" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/zapier/FF4F00" width="44" height="44" alt="Marketing Automation" title="Marketing Automation" />
+</p>
 
 ## Selected Projects
 
-| Project | Role | Website |
-|---|---|---|
-| **GTOA** | Digital Marketing Manager | [Visit Website](https://greatertxortho.com/) |
-| **Defcor** | Digital Marketing Manager | [Visit Website](https://defcor.us/) |
-| **Nova** | Digital Marketing Manager | [Visit Website](https://thenovacreative.agency/) |
-| **Aalix** | Digital Marketing Manager | [Visit Website](https://aalixstudio.com/) |
-| **Falcon Reach** | Digital Marketing Manager | Coming soon |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="250" align="left">Project</th>
+      <th width="450" align="left">Role</th>
+      <th width="300" align="left">Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>GTOA</strong></td>
+      <td>Digital Marketing Manager</td>
+      <td><a href="https://greatertxortho.com/">Visit Website</a></td>
+    </tr>
+    <tr>
+      <td><strong>Defcor</strong></td>
+      <td>Digital Marketing Manager</td>
+      <td><a href="https://defcor.us/">Visit Website</a></td>
+    </tr>
+    <tr>
+      <td><strong>Nova</strong></td>
+      <td>Digital Marketing Manager</td>
+      <td><a href="https://thenovacreative.agency/">Visit Website</a></td>
+    </tr>
+    <tr>
+      <td><strong>Aalix</strong></td>
+      <td>Digital Marketing Manager</td>
+      <td><a href="https://aalixstudio.com/">Visit Website</a></td>
+    </tr>
+    <tr>
+      <td><strong>Falcon Reach</strong></td>
+      <td>Digital Marketing Manager</td>
+      <td>Coming soon</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Contact
 
-- Email: [rezasoofian932@gmail.com](mailto:rezasoofian932@gmail.com)
-- Instagram: [@reza_soofian](https://instagram.com/reza_soofian)
-- Telegram: [@Reza_Soofian](https://t.me/Reza_Soofian)
+<p align="center">
+  <a href="mailto:rezasoofian932@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="44" height="44" alt="Email" title="Email" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/reza_soofian"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="44" height="44" alt="Instagram" title="Instagram" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/Reza_Soofian"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="44" height="44" alt="Telegram" title="Telegram" /></a>
+</p>
