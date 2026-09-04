@@ -15,12 +15,7 @@ I'm a Digital Marketing Manager with a strong interest in SEO, web design, WordP
 ## Skills
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="44" height="44" alt="SEO" title="SEO" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="44" height="44" alt="Web Development" title="Web Development" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="44" height="44" alt="Web Design" title="Web Design" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="44" height="44" alt="WordPress" title="WordPress" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="44" height="44" alt="Artificial Intelligence" title="Artificial Intelligence" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/zapier/FF4F00" width="44" height="44" alt="Marketing Automation" title="Marketing Automation" />
+  <img src="profile-icons/skills.svg" width="690" alt="SEO, Web Development, Web Design, WordPress, Artificial Intelligence and Marketing Automation" />
 </p>
 
 ## Selected Projects
