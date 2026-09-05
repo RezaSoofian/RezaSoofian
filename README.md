@@ -14,8 +14,8 @@ I'm a Digital Marketing Manager with a strong interest in SEO, web design, WordP
 
 ## Skills
 
-<p align="center">
-  <img src="profile-icons/skills.svg" width="690" alt="SEO, Web Development, Web Design, WordPress, Artificial Intelligence and Marketing Automation" />
+<p align="left">
+  <img src="profile-icons/skills.svg" width="560" alt="SEO, Web Development, Web Design, WordPress, Artificial Intelligence and Marketing Automation" />
 </p>
 
 ## Selected Projects
@@ -59,8 +59,8 @@ I'm a Digital Marketing Manager with a strong interest in SEO, web design, WordP
 
 ## Contact
 
-<p align="center">
-  <a href="mailto:rezasoofian932@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="44" height="44" alt="Email" title="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/reza_soofian"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="44" height="44" alt="Instagram" title="Instagram" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/Reza_Soofian"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="44" height="44" alt="Telegram" title="Telegram" /></a>
+<p align="left">
+  <a href="mailto:rezasoofian932@gmail.com"><img src="profile-icons/email.svg" width="46" height="46" alt="Email" title="Email" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/reza_soofian"><img src="profile-icons/instagram.svg" width="46" height="46" alt="Instagram" title="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://t.me/Reza_Soofian"><img src="profile-icons/telegram.svg" width="46" height="46" alt="Telegram" title="Telegram" /></a>
 </p>
