@@ -61,11 +61,3 @@ I'm a Digital Marketing Manager with a strong interest in SEO, web design, WordP
     </tr>
   </tbody>
 </table>
-
-## Contact
-
-<p align="left">
-  <a href="mailto:rezasoofian932@gmail.com"><img src="profile-icons/email.svg" width="64" height="64" alt="Email" title="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/reza_soofian"><img src="profile-icons/instagram.svg" width="64" height="64" alt="Instagram" title="Instagram" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/Reza_Soofian"><img src="profile-icons/telegram.svg" width="64" height="64" alt="Telegram" title="Telegram" /></a>
-</p>
