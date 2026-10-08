@@ -52,7 +52,12 @@ I'm a Digital Marketing Manager with a strong interest in SEO, web design, WordP
     <tr>
       <td><strong>Falcon Reach</strong></td>
       <td>Digital Marketing Manager</td>
-      <td>Coming soon</td>
+      <td><a href="https://falconreach.us/">Visit Website</a></td>
+    </tr>
+    <tr>
+      <td><strong>J Solutions</strong></td>
+      <td>Digital Marketing Manager</td>
+      <td><a href="https://jsolutions.us/">Visit Website</a></td>
     </tr>
   </tbody>
 </table>
